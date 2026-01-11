@@ -1,3 +1,6 @@
+## Live Demo
+https://calmstudiodev.github.io/project-2-html-css/
+
 Project 2-HTML & CSS Practice
 This is my second practice project while learning front-end development
 
